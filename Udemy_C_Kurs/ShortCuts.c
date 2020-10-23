@@ -9,7 +9,7 @@ Wenn kein Text ausgewählt wird, wird die ganze Zeile bearbeitet. Funktioniert b
 [Strg] + [K]+[F] Einrückung der Zeile formatieren
 [Strg] + [K]+[D] Einrückung des Dokuments formatieren
 [Strg] + [K]+[C] Zeile auskommentieren
-*[Strg] + [K]+[C] Markierter Bereich ausklammern //
+    *[Strg] + [K]+[C] Markierter Bereich ausklammern //
 [Strg] + [K]+[U] Zeile wieder
 [Alt] + Mausklick + nach unten ziehen in mehreren Zeilen gleichzeitig schreiben
 [Strg] + [H] Quick Replace
@@ -26,6 +26,7 @@ Wenn kein Text ausgewählt wird, wird die ganze Zeile bearbeitet. Funktioniert b
 [Strg] + [Return] Leere Zeile unterhalb des Cursors
 [Strg] + [M] + [M] Methoden/ Klassen/ Bereiche ausklappen
 [Strg] + [M] + [L] Methoden/ Klassen/ Bereiche einklappen
+    *[Shift] + [Alt] + [F] Beautifying Function
 
 
 */
