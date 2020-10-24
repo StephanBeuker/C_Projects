@@ -1,0 +1,1 @@
+void max(float, float);

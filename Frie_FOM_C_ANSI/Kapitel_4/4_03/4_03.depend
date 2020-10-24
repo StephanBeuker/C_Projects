@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1382784668 source:/home/oliver/FOM/2014_WS/PP/C-Code/04/mathematik.c
+	<Math.h>
+
+1401901384 source:/home/oliver/FOM/2014_WS/PP/C-Code/04/4_03/04.03c.c
+	<stdio.h>
+	"mathematik.h"
+
+1383381772 /home/oliver/FOM/2014_WS/PP/C-Code/04/4_03/mathematik.h
+
+1414146169 source:/home/oliver/FOM/2014_WS/PP/C-Code/04/4_03/mathematik.c
+	<math.h>
+
+1401901384 source:/home/oliver/FOM/2015_SS/PP/C-Code/04/4_03/04.03c.c
+	<stdio.h>
+	"mathematik.h"
+
+1429959717 /home/oliver/FOM/2015_SS/PP/C-Code/04/4_03/mathematik.h
+
+1414146169 source:/home/oliver/FOM/2015_SS/PP/C-Code/04/4_03/mathematik.c
+	<math.h>
+
+1401901384 source:/home/oliver/FOM/2015_WS/PP/C-Code/04/4_03/04.03c.c
+	<stdio.h>
+	"mathematik.h"
+
+1429960777 /home/oliver/FOM/2015_WS/PP/C-Code/04/4_03/mathematik.h
+

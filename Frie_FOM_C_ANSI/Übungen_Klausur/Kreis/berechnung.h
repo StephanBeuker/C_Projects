@@ -1,0 +1,6 @@
+
+// berechnet ...
+float berechneUmfang(int);
+
+// berechnet das...
+float berechneFlaeche(int);

@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1389269509 source:d:\fom\2014_ss\pp\c-code\04\04.02b.c
+	<stdio.h>
+	"max.h"
+
+1389269509 
+
+1383386452 d:\fom\2014_ss\pp\c-code\04\max.h
+
+1370274022 source:d:\fom\2014_ss\pp\c-code\04\max.c
+
+1389265910 source:/home/oliver/FOM/2014_WS/PP/C-Code/04/04.02b.c
+	<stdio.h>
+	"max.h"
+
+1414087565 /home/oliver/FOM/2014_WS/PP/C-Code/04/max.h
+
+1370274022 source:/home/oliver/FOM/2014_WS/PP/C-Code/04/max.c
+
+1389265910 source:/home/oliver/FOM/2014_WS/PP/C-Code/04/4_02/04.02b.c
+	<stdio.h>
+	"max.h"
+
+1414087565 /home/oliver/FOM/2014_WS/PP/C-Code/04/4_02/max.h
+
+1370274022 source:/home/oliver/FOM/2014_WS/PP/C-Code/04/4_02/max.c
+
+1429037562 source:/home/oliver/FOM/2015_SS/PP/C-Code/04/4_02/04.02b.c
+	<stdio.h>
+	"max.c"
+
+1429037537 /home/oliver/FOM/2015_SS/PP/C-Code/04/4_02/max.h
+
+1370274022 source:/home/oliver/FOM/2015_SS/PP/C-Code/04/4_02/max.c
+
+1370274022 /home/oliver/FOM/2015_SS/PP/C-Code/04/4_02/max.c
+
+1429037599 source:/home/oliver/FOM/2015_WS/PP/C-Code/04/4_02/04.02b.c
+	<stdio.h>
+	"max.h"
+
+1429037557 /home/oliver/FOM/2015_WS/PP/C-Code/04/4_02/max.h
+
+1370274022 source:/home/oliver/FOM/2015_WS/PP/C-Code/04/4_02/max.c
+
