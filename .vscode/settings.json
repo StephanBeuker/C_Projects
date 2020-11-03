@@ -9,4 +9,7 @@
     // "debuggerCpp": "lldb",
     // For all OS
     "make": "make",
+    "files.associations": {
+        "random": "c"
+    },
 }
