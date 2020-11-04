@@ -10,6 +10,7 @@
     // For all OS
     "make": "make",
     "files.associations": {
-        "random": "c"
+        "random": "c",
+        "cstdio": "c"
     },
 }
