@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1417108436 source:/home/oliver/FOM/2014_WS/PP/C-Code/07/7_01_extern/07.01b.c
+	<stdio.h>
+	"funktion.h"
+
+1254027030 /home/oliver/FOM/2014_WS/PP/C-Code/07/7_01_extern/funktion.h
+
+1417196386 source:/home/oliver/FOM/2014_WS/PP/C-Code/07/7_01_extern/funktion.c
+	<stdio.h>
+
+1417196386 source:/home/oliver/FOM/2015_WS/PP/C-Code/07/7_01_extern/funktion.c
+	<stdio.h>
+

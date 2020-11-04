@@ -17,7 +17,7 @@ void initMyArray(float *p_array, unsigned int length){
 
 //"Wenn man ein Array als Argument ion eine Funktion übergibt(Stack oder Heap spielt keine Rolle)
     //und wenn in der function das Array als Pointer übernommen wird, dann zeigt diese Pointervariable
-    //aus fer erste Element in dem Array!"
+    //auf das erste Element in dem Array!"
         // p_array  = Speicheradresse 1tes Element
         // +i       = Gehe i Speicheradressen weiter
         // ohne * nur Speicheradresse in Klammern, um Wert/Inhalt zu ändern * vor Klammern

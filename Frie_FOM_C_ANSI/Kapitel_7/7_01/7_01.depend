@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1385806276 source:d:\fom\2014_ss\pp\c-code\07\funktion.c
+
+1417108436 source:/home/oliver/FOM/2014_WS/PP/C-Code/07/07.01b.c
+	<stdio.h>
+	"funktion.h"
+
+1254027030 /home/oliver/FOM/2014_WS/PP/C-Code/07/funktion.h
+
+1385802676 source:/home/oliver/FOM/2014_WS/PP/C-Code/07/funktion.c
+
