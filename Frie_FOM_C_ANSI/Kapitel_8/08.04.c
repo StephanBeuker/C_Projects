@@ -4,6 +4,7 @@
 int main() {
 
 	char string[] = "/home/oliver/FOM/2014_WS/PP/Test.ods";
+	
 
     // Dateiendung
     char *ptr = strrchr(string, '.');
