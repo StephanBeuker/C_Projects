@@ -10,12 +10,12 @@ int main() {
 	scanf("%d", &groesse);
 
     int *array;
-    // Speicher allokieren
+    // Speicher allokieren (int* ->Startpunkt)
 	array = (int *) calloc(groesse, sizeof(int));
 
     // posX soll kein Zeiger auf das Array sein, sondern die Position der Spielfigur
     // enthalten: z.B. Figur ganz links-> posX=0 oder Figur auf Feld 4 -> posX=3
-    // entspricht also dem Index des Elementes, das eine 1 enthält
+    // entspricht also dem Index des Elementes, das eine 1 enthï¿½lt
     int posX=0;
 	char zug;
 
@@ -28,7 +28,7 @@ int main() {
     fflush(stdin);
 
 	do {
-		// Array über Funktionsaufruf printArray(int *, int *); ausgeben
+		// Array ï¿½ber Funktionsaufruf printArray(int *, int *); ausgeben
         printArray(&array[0], &groesse);
 
         // l, r oder x einlesen mit scanf
@@ -37,7 +37,7 @@ int main() {
         // Tastaturpuffer leeren
         fflush(stdin);
 
-        // Zug ausführen mit Funktionsaufruf move(int *, int *, char *, int *);
+        // Zug ausfï¿½hren mit Funktionsaufruf move(int *, int *, char *, int *);
         move(&array[0], &posX, &zug, &groesse);
 
 	}while(zug != 'x');
@@ -58,7 +58,7 @@ void printArray(int *array, int *groesse) {
         array = array+i;
         // Wert ausgeben
 	    printf("%d ", *array);
-        // Position zurücksetzen
+        // Position zurï¿½cksetzen
 	    array = array-i;
 
 	    // Alternative in einem Schritt
@@ -73,7 +73,7 @@ void move(int *array, int *posX, char *zug, int *groesse) {
 
 
 	// Alternative in einem Schritt
-	*(array + *posX) = 0;
+	*(array + *posX) = 0; //array[*posx]=0;    <--------------------
 	//array[*posX]=0;
 
 

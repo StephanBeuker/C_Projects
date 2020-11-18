@@ -27,7 +27,7 @@ int main() {
     printf("\nMittelwert:\t%.2f", getAverage(array, &groesse));
 
     free(array);
-
+    array = NULL;
 	return 0;
 }
 
