@@ -13,4 +13,6 @@
         "random": "c",
         "cstdio": "c"
     },
+    "editor.mouseWheelZoom": true,
+    "window.zoomLevel": -1,
 }
