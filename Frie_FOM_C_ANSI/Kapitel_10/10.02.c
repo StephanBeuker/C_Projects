@@ -2,13 +2,13 @@
 
 int main()
 {
-	int array1[5]={0,1,2,3,4};
+	int array1[5]={023,241,525262,2363,236367674};
 	int array2[5];
 	int i=0;
 	FILE *fp;
 
-    // zahlen.txt im Schreibmodus öffnen
-	if ((fp=fopen("zahlen.txt","w"))==NULL)
+    // zahlen.txt im Schreibmodus ï¿½ffnen
+	if ((fp=fopen("C:\\Users\\StefanBeuker\\Documents\\test.txt","w"))==NULL) //w=write
 	{
 		printf("Fehler beim Oeffnen der Datei\n");
 	}else{
@@ -20,8 +20,8 @@ int main()
     	fclose(fp);
     }
 
-    // die Datei zahlen.txt wird im Lesemodus geöffnet
-    if ((fp=fopen("zahlen.txt","r"))==NULL)
+    // die Datei zahlen.txt wird im Lesemodus geï¿½ffnet
+    if ((fp=fopen("C:\\Users\\StefanBeuker\\Documents\\test.txt","r"))==NULL) //r=read!
     {
     	printf("Fehler beim zweiten Oeffnen der Datei\n");
 

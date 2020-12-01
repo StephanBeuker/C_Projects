@@ -1,6 +1,8 @@
 
 #include <stdio.h>
 
+//Zeigerarithmetik
+
 typedef struct{
 	char sorte[10];
 	float preis;

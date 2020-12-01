@@ -4,8 +4,8 @@ int main()
 {
 	FILE *fp;
 
-	//fp=fopen("daten.txt","w");
-	fp=fopen("daten.txt","a");
+	fp=fopen("C:\\Users\\StefanBeuker\\Documents\\test.txt","w");
+	//fp=fopen("C:\\Users\\StefanBeuker\\Documents\\test.txt","a");
 
 	if (fp==NULL)
 	{

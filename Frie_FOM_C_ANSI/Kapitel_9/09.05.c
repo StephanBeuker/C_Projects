@@ -1,12 +1,13 @@
 
 #include <stdio.h>
 
+//Punktnotation
 
 typedef struct{
 	char sorte[10];
 	float preis;
 	int kilo;
-} APFEL;
+} APFEL;	//Apfel = Datentyp; besser APFELLISTE
 
 int main(){
 
