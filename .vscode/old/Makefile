@@ -33,7 +33,7 @@ CPP_OBJECTS = $(filter %.o, $(patsubst %.c,  %.o, $(CPP_SRCS)))
 build: $(EXECUTABLE_NAME)
 
 build_single: 
-	$(C_COMPILER_CALL) -o $(EXECUTABLE_NAME) $(FILE_NAME)
+	$(C_COMPILER_CALL) -o $(EXECUTABLE_NAME) "$(FILE_NAME)"
 
 $(EXECUTABLE_NAME): $(CPP_OBJECTS)
 	$(C_COMPILER_CALL) $^ -o $@

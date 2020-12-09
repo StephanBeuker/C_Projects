@@ -9,4 +9,10 @@
     // "debuggerCpp": "lldb",
     // For all OS
     "make": "make",
+    "files.associations": {
+        "random": "c",
+        "cstdio": "c"
+    },
+    "editor.mouseWheelZoom": true,
+    "window.zoomLevel": -1,
 }
