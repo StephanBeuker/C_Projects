@@ -18,7 +18,7 @@ int main() {
        fseek(datei, 0, SEEK_SET);
 
        for(i=0; i<8; i++){
-           fseek(datei, i*10, SEEK_SET);
+           fseek(datei, i*11, SEEK_SET);
 
            fputs("1", datei);
           // fseek(datei, 9, SEEK_CUR);
